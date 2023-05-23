@@ -10,5 +10,10 @@
   },
   "devDependencies": {
     "@types/node": "^20.2.1"
+  },
+  "homepage": "https://github.com/deng232/pfm-util",
+  "repository": {
+    "url": "https://github.com/deng232/pfm-util",
+    "type": "git"
   }
 }
