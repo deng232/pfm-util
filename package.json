@@ -1,0 +1,14 @@
+{
+  "name": "pfm-util",
+  "version": ".5",
+  "description": "toolkit for portable floating point file",
+  "main": "index.js",
+  "author": "deng232",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^20.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.1"
+  }
+}
